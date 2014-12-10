@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+p {
+    padding: 5px;
+}
+
+p.private {
+    font-style: italic;
+}
+
+.outer-container {
+    width: 1000px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.login-div {
+    border-style: solid;
+    border-width: 5px;
+}
+
+.interface-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 800px;
+}
+
+.feedback-container {
+    text-align: left;
+}
+
+.feedback-div {
+    width: 590px;
+    height: 490px;
+    border-style: solid;
+    border-width: 5px;
+    overflow: auto;
+    float: left;
+}
+
+.right-panel {
+    width: 190px;
+    height: 490px;
+    border-style: solid;
+    border-width: 5px;
+    float: left;
+    text-align: center;
+}
+
+.users-div {
+    text-align: left;
+}
+
+.input-field {
+    width: 700px;
+}
